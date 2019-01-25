@@ -1,0 +1,314 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.github.AnyChart:AnyChart-Android:1.0.8] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\AnyChart-Android-1.0.8.aar\da57c015a013e174a3eaefa4ecb2d0da\AndroidManifest.xml:2:1-17:12
+MERGED from [kb.paditech:base_sdk:1.0.6.37] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\base_sdk-1.0.6.37.aar\7e90a086f0a2324b3b624ca8a5a079a7\AndroidManifest.xml:2:1-12:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\4a233fa63390ec175b589474d3fa2601\AndroidManifest.xml:2:1-15:12
+MERGED from [com.roughike:bottom-bar:2.3.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\bottom-bar-2.3.1.aar\7e6828003be71fceed529fe21dd74f13\AndroidManifest.xml:2:1-12:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\0ebb91cefb6ee84c5cce361f34ad4c9d\AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\70b00dd45aee18e1cd4bed68ca29910f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f21a4d871a638280bfb45f920477ce6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a2d796262bf3567b0097ebf6576e0264\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\84ea8d009c54e3db9e7b26043357e78f\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\f0a9da5dcbaacfa3b10569144f57c4d6\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.0.aar\082c414d7c852fce8697b3d185dfa1ad\AndroidManifest.xml:15:1-20:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\8c7a1707cea5c9b13cc114a3d0103d1e\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\d3c9c72f17cdba70b271c41150214356\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\52e6258ac468f8f7d23f77bb4d55343f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f04f605bdac7620e25a19f8ef3178488\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\6852f1e8164dbfa0733a7fe8167d77c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\304193e8bae7192bfc901f17c1eb88dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\95da68a11e1b6a5ddcac78d869116a60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\79ccc23b7cb85f6775dca182ada17bf7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cc55fee6409e8fc7ae5b79253b1f737f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58403eabbe4ca618d19a9262ccf91be0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7a4a924a2daff07ca3b6361b235337f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6393a0c3a52c10bde21a1b0722d9ade4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0f29bc166cfd63d09cf3576904975dfb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\6336bf8b469fbe8731ef0a8104cd79a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4213cfb5e22d2b462e0320011c830a5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\54604f14fad7176738d255d0466c4a2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ed458ab15f86f3738c50eaa1211dcf98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a550b45d7843879348ee45f2b7709ae5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ef7edf4334f2e422fd84b582ac375b75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2a6f017044077089bd70d8c8aab48a7e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fdec4e32136f5224073655d6d0221c52\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b51bf03ec88a07fba7fe82b3ef4d12a1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0abd6851605bbe04ed3e1e9f735b8836\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4dd2a5291dabb4ab6e13bbee772550d8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1c24801723d6ed8c4403fc667e49c20a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\462f566ddec22eff3cde843b4b361a27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b70cc804f1cb803381b0b4d3e6f5fa95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5d2f099c15120a5ca8468af932c0c232\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\01d337f0d782a6d9eddd9003a81e76cf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ef324a8789cf3bfdc6339a08f0e0c600\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\177dcbe942e0fb9c7a092075f2a4a3b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.deploygate:sdk:4.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\sdk-4.0.0.aar\cbf2b21454efcf2de3e138b2f5cc377c\AndroidManifest.xml:2:1-18:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\d1249b03cd9c4bcee9deda3758c868c3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.scottyab:aescrypt:0.0.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\aescrypt-0.0.1.aar\53e2f49db758b50429fb39529ecd85ad\AndroidManifest.xml:2:1-12:12
+INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:4:1-62
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:4:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:6:5-39:19
+MERGED from [com.github.AnyChart:AnyChart-Android:1.0.8] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\AnyChart-Android-1.0.8.aar\da57c015a013e174a3eaefa4ecb2d0da\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.AnyChart:AnyChart-Android:1.0.8] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\AnyChart-Android-1.0.8.aar\da57c015a013e174a3eaefa4ecb2d0da\AndroidManifest.xml:11:5-15:19
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\4a233fa63390ec175b589474d3fa2601\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\4a233fa63390ec175b589474d3fa2601\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a2d796262bf3567b0097ebf6576e0264\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a2d796262bf3567b0097ebf6576e0264\AndroidManifest.xml:9:5-20
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\84ea8d009c54e3db9e7b26043357e78f\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\84ea8d009c54e3db9e7b26043357e78f\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2a6f017044077089bd70d8c8aab48a7e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2a6f017044077089bd70d8c8aab48a7e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fdec4e32136f5224073655d6d0221c52\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fdec4e32136f5224073655d6d0221c52\AndroidManifest.xml:22:5-23:19
+MERGED from [com.deploygate:sdk:4.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\sdk-4.0.0.aar\cbf2b21454efcf2de3e138b2f5cc377c\AndroidManifest.xml:11:5-16:19
+MERGED from [com.deploygate:sdk:4.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\sdk-4.0.0.aar\cbf2b21454efcf2de3e138b2f5cc377c\AndroidManifest.xml:11:5-16:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\d1249b03cd9c4bcee9deda3758c868c3\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\d1249b03cd9c4bcee9deda3758c868c3\AndroidManifest.xml:9:5-20
+MERGED from [com.scottyab:aescrypt:0.0.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\aescrypt-0.0.1.aar\53e2f49db758b50429fb39529ecd85ad\AndroidManifest.xml:10:5-20
+MERGED from [com.scottyab:aescrypt:0.0.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\aescrypt-0.0.1.aar\53e2f49db758b50429fb39529ecd85ad\AndroidManifest.xml:10:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2a6f017044077089bd70d8c8aab48a7e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.congduy.landmonitoring.MainActivity
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.congduy.landmonitoring.viewNode
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:20:9-46
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:20:19-43
+activity#com.example.congduy.landmonitoring.viewParameter
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:21:19-48
+activity#com.example.congduy.landmonitoring.node1
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:22:9-43
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:22:19-40
+activity#com.example.congduy.landmonitoring.node2
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:23:9-43
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:23:19-40
+activity#com.example.congduy.landmonitoring.node3
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:24:9-43
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:24:19-40
+activity#com.example.congduy.landmonitoring.node4
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:25:9-43
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:25:19-40
+activity#com.example.congduy.landmonitoring.node5
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:26:9-43
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:26:19-40
+activity#com.example.congduy.landmonitoring.node6
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:27:9-43
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:27:19-40
+activity#com.example.congduy.landmonitoring.node7
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:28:9-43
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:28:19-40
+activity#com.example.congduy.landmonitoring.node8
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:29:9-43
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:29:19-40
+activity#com.example.congduy.landmonitoring.node9
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:30:9-43
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:30:19-40
+activity#com.example.congduy.landmonitoring.node10
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:31:19-41
+activity#com.example.congduy.landmonitoring.Temperature
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:32:9-49
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:32:19-46
+activity#com.example.congduy.landmonitoring.Humidity
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:33:9-46
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:33:19-43
+activity#com.example.congduy.landmonitoring.PH
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:34:9-40
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:34:19-37
+activity#com.example.congduy.landmonitoring.Brightness
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:35:9-48
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:35:19-45
+activity#com.example.congduy.landmonitoring.pin
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:36:9-41
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:36:19-38
+activity#com.example.congduy.landmonitoring.soil_hum
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:37:9-55
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:37:19-43
+activity#com.example.congduy.landmonitoring.LineChartActivity
+ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:38:9-64
+	android:name
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml:38:19-52
+uses-sdk
+INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+MERGED from [com.github.AnyChart:AnyChart-Android:1.0.8] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\AnyChart-Android-1.0.8.aar\da57c015a013e174a3eaefa4ecb2d0da\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnyChart:AnyChart-Android:1.0.8] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\AnyChart-Android-1.0.8.aar\da57c015a013e174a3eaefa4ecb2d0da\AndroidManifest.xml:7:5-9:41
+MERGED from [kb.paditech:base_sdk:1.0.6.37] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\base_sdk-1.0.6.37.aar\7e90a086f0a2324b3b624ca8a5a079a7\AndroidManifest.xml:8:5-10:41
+MERGED from [kb.paditech:base_sdk:1.0.6.37] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\base_sdk-1.0.6.37.aar\7e90a086f0a2324b3b624ca8a5a079a7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\4a233fa63390ec175b589474d3fa2601\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\4a233fa63390ec175b589474d3fa2601\AndroidManifest.xml:8:5-11:75
+MERGED from [com.roughike:bottom-bar:2.3.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\bottom-bar-2.3.1.aar\7e6828003be71fceed529fe21dd74f13\AndroidManifest.xml:8:5-10:41
+MERGED from [com.roughike:bottom-bar:2.3.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\bottom-bar-2.3.1.aar\7e6828003be71fceed529fe21dd74f13\AndroidManifest.xml:8:5-10:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\0ebb91cefb6ee84c5cce361f34ad4c9d\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\0ebb91cefb6ee84c5cce361f34ad4c9d\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\70b00dd45aee18e1cd4bed68ca29910f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\70b00dd45aee18e1cd4bed68ca29910f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f21a4d871a638280bfb45f920477ce6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f21a4d871a638280bfb45f920477ce6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a2d796262bf3567b0097ebf6576e0264\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a2d796262bf3567b0097ebf6576e0264\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\84ea8d009c54e3db9e7b26043357e78f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\84ea8d009c54e3db9e7b26043357e78f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\f0a9da5dcbaacfa3b10569144f57c4d6\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\f0a9da5dcbaacfa3b10569144f57c4d6\AndroidManifest.xml:20:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.0.aar\082c414d7c852fce8697b3d185dfa1ad\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.0.aar\082c414d7c852fce8697b3d185dfa1ad\AndroidManifest.xml:18:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\8c7a1707cea5c9b13cc114a3d0103d1e\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\8c7a1707cea5c9b13cc114a3d0103d1e\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\d3c9c72f17cdba70b271c41150214356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\d3c9c72f17cdba70b271c41150214356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\52e6258ac468f8f7d23f77bb4d55343f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\52e6258ac468f8f7d23f77bb4d55343f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f04f605bdac7620e25a19f8ef3178488\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f04f605bdac7620e25a19f8ef3178488\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\6852f1e8164dbfa0733a7fe8167d77c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\6852f1e8164dbfa0733a7fe8167d77c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\304193e8bae7192bfc901f17c1eb88dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\304193e8bae7192bfc901f17c1eb88dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\95da68a11e1b6a5ddcac78d869116a60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\95da68a11e1b6a5ddcac78d869116a60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\79ccc23b7cb85f6775dca182ada17bf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\79ccc23b7cb85f6775dca182ada17bf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cc55fee6409e8fc7ae5b79253b1f737f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cc55fee6409e8fc7ae5b79253b1f737f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58403eabbe4ca618d19a9262ccf91be0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58403eabbe4ca618d19a9262ccf91be0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7a4a924a2daff07ca3b6361b235337f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7a4a924a2daff07ca3b6361b235337f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6393a0c3a52c10bde21a1b0722d9ade4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6393a0c3a52c10bde21a1b0722d9ade4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0f29bc166cfd63d09cf3576904975dfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0f29bc166cfd63d09cf3576904975dfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\6336bf8b469fbe8731ef0a8104cd79a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\6336bf8b469fbe8731ef0a8104cd79a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4213cfb5e22d2b462e0320011c830a5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4213cfb5e22d2b462e0320011c830a5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\54604f14fad7176738d255d0466c4a2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\54604f14fad7176738d255d0466c4a2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ed458ab15f86f3738c50eaa1211dcf98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ed458ab15f86f3738c50eaa1211dcf98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a550b45d7843879348ee45f2b7709ae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a550b45d7843879348ee45f2b7709ae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ef7edf4334f2e422fd84b582ac375b75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ef7edf4334f2e422fd84b582ac375b75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2a6f017044077089bd70d8c8aab48a7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2a6f017044077089bd70d8c8aab48a7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fdec4e32136f5224073655d6d0221c52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fdec4e32136f5224073655d6d0221c52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b51bf03ec88a07fba7fe82b3ef4d12a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b51bf03ec88a07fba7fe82b3ef4d12a1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0abd6851605bbe04ed3e1e9f735b8836\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0abd6851605bbe04ed3e1e9f735b8836\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4dd2a5291dabb4ab6e13bbee772550d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4dd2a5291dabb4ab6e13bbee772550d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1c24801723d6ed8c4403fc667e49c20a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1c24801723d6ed8c4403fc667e49c20a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\462f566ddec22eff3cde843b4b361a27\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\462f566ddec22eff3cde843b4b361a27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b70cc804f1cb803381b0b4d3e6f5fa95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b70cc804f1cb803381b0b4d3e6f5fa95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5d2f099c15120a5ca8468af932c0c232\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5d2f099c15120a5ca8468af932c0c232\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\01d337f0d782a6d9eddd9003a81e76cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\01d337f0d782a6d9eddd9003a81e76cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ef324a8789cf3bfdc6339a08f0e0c600\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ef324a8789cf3bfdc6339a08f0e0c600\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\177dcbe942e0fb9c7a092075f2a4a3b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\177dcbe942e0fb9c7a092075f2a4a3b5\AndroidManifest.xml:20:5-44
+MERGED from [com.deploygate:sdk:4.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\sdk-4.0.0.aar\cbf2b21454efcf2de3e138b2f5cc377c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.deploygate:sdk:4.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\sdk-4.0.0.aar\cbf2b21454efcf2de3e138b2f5cc377c\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\d1249b03cd9c4bcee9deda3758c868c3\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\d1249b03cd9c4bcee9deda3758c868c3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.scottyab:aescrypt:0.0.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\aescrypt-0.0.1.aar\53e2f49db758b50429fb39529ecd85ad\AndroidManifest.xml:6:5-8:41
+MERGED from [com.scottyab:aescrypt:0.0.1] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\aescrypt-0.0.1.aar\53e2f49db758b50429fb39529ecd85ad\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\4a233fa63390ec175b589474d3fa2601\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project1\LandMonitoring\app\src\main\AndroidManifest.xml
+provider#com.deploygate.sdk.DeployGateProvider
+ADDED from [com.deploygate:sdk:4.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\sdk-4.0.0.aar\cbf2b21454efcf2de3e138b2f5cc377c\AndroidManifest.xml:12:9-15:40
+	android:authorities
+		ADDED from [com.deploygate:sdk:4.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\sdk-4.0.0.aar\cbf2b21454efcf2de3e138b2f5cc377c\AndroidManifest.xml:14:13-70
+	android:exported
+		ADDED from [com.deploygate:sdk:4.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\sdk-4.0.0.aar\cbf2b21454efcf2de3e138b2f5cc377c\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.deploygate:sdk:4.0.0] C:\Users\Linh\.gradle\caches\transforms-1\files-1.1\sdk-4.0.0.aar\cbf2b21454efcf2de3e138b2f5cc377c\AndroidManifest.xml:13:13-65
